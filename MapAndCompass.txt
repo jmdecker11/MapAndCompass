@@ -10,10 +10,10 @@ How to get your direction with a map and compass:
 How to find out your location using a map and compass: 
 
 1) Align the map so that the North arrow on the map is pointing to North in real life.
-2) Point your compass to a land mark. 
+2) Point your compass to a landmark. 
 3) Turn the dial on the compass until the North direction matches where the North orientation arrow is pointing.
 4) Go to your topographic map. Place the corner of your compass on the landmark you were pointing to.
-5) Pivot the compass until the North and South directions match the North and South lined on your compass (should this say "map"?).
+5) Pivot the compass until the North and South directions match the North and South lines on your map.
 6) Draw a line using your compass edge, starting from the corner of the compass that is on your landmark. You are somewhere on that line! 
 7) Repeat steps 1-5 using a different landmark. 
 8) Where the 2 lines intersect is your location!   
