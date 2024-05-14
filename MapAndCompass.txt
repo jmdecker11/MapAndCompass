@@ -16,4 +16,8 @@ How to find out your location using a map and compass:
 5) Pivot the compass until the North and South directions match the North and South lines on your map.
 6) Draw a line using your compass edge, starting from the corner of the compass that is on your landmark. You are somewhere on that line! 
 7) Repeat steps 1-5 using a different landmark. 
-8) Where the 2 lines intersect is your location!   
+8) Where the 2 lines intersect is your location!
+
+Helpful Youtube Videos: 
+https://www.youtube.com/watch?v=P1LL2FXK6o0
+https://www.youtube.com/watch?v=QWHRyHZbXsw   
